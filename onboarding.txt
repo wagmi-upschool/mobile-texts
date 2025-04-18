@@ -36,6 +36,15 @@
     "true": "Bildirimleri aç",
     "false": "Kapalı kalsın"
   },
+  "targetUser":{
+    "title": "**UP'ta neye odaklanmak istersin?**",
+    "options": [
+      "🎯 Hedef koymak ve ilerlemek (Farkındalık Günlüğü / Sorumluluk Dostu)",
+      "🤝 Zor bir durumu prova etmek (Prova Odası / Roleplay)",
+      "🧘‍♀️ Zihnimi toparlamak ve odaklanmak (Farkındalık Günlüğü)",
+      "🎤 Kendimi daha iyi ifade etmek (Prova Odası / Roleplay)"
+    ]
+  },
   "redirect": {
     "promo": {
             "title":"**İşte şimdi hazırız.**",
