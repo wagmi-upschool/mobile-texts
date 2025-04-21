@@ -27,6 +27,15 @@
       "Her zaman"
     ]
   },
+  "targetUser":{
+    "title": "**UP'ta neye odaklanmak istersin?**",
+    "options": [
+      "🎯 Hedef koymak ve ilerlemek (Farkındalık Günlüğü / Sorumluluk Dostu)",
+      "🤝 Zor bir durumu prova etmek (Prova Odası / Roleplay)",
+      "🧘‍♀️ Zihnimi toparlamak ve odaklanmak (Farkındalık Günlüğü)",
+      "🎤 Kendimi daha iyi ifade etmek (Prova Odası / Roleplay)"
+    ]
+  },
   "notification": {
     "title": "**Sen yoğunsun, gelişimini takip etmen için ben yanındayım.**\n\nKüçük hatırlatmalar için iznine ihtiyacım var. Söz seni gereksiz mesajlarla rahatsız etmeyeceğim.",
     "options": [
