@@ -28,12 +28,12 @@
     ]
   },
   "targetUser":{
-    "title": "**UP'ta neye odaklanmak istersin?**",
+    "title": "**Birlikte hangi konulara odaklanmak istersin?**",
     "options": [
-      "🎯 Hedef koymak ve ilerlemek (Farkındalık Günlüğü / Sorumluluk Dostu)",
-      "🤝 Zor bir durumu prova etmek (Prova Odası / Roleplay)",
-      "🧘‍♀️ Zihnimi toparlamak ve odaklanmak (Farkındalık Günlüğü)",
-      "🎤 Kendimi daha iyi ifade etmek (Prova Odası / Roleplay)"
+      "🎯 Hedef koymak ve ilerlemek",
+      "🤝 Zor bir durumu prova etmek",
+      "🧘‍♀️ Zihnimi toparlamak ve odaklanmak",
+      "🎤 Kendimi daha iyi ifade etmek"
     ]
   },
   "notification": {
