@@ -9,8 +9,6 @@
     {
       "id": "Mentorship",
       "assistantIds": [
-        "e86e6282-99e4-4e79-9220-13bf6c54be84",
-        "3b29a60f-e7e2-4d2a-9143-d89272c72568",
         "65022e9b-107e-4af4-8d0a-03dabbef64d7"
       ],
       "taskInstructions": "For MENTORSHIP interactions: Guide user with principles from context without lecturing Use questions to help user discover insights themselves Balance supportive encouragement with constructive direction",
