@@ -9,7 +9,8 @@
     {
       "id": "Mentorship",
       "assistantIds": [
-        "e86e6282-99e4-4e79-9220-13bf6c54be84"
+        "e86e6282-99e4-4e79-9220-13bf6c54be84",
+        "3b29a60f-e7e2-4d2a-9143-d89272c72568"
       ],
       "taskInstructions": "For MENTORSHIP interactions: Guide user with principles from context without lecturing Use questions to help user discover insights themselves Balance supportive encouragement with constructive direction",
       "stage2Instructions": "Refine the prepared response to deepen the mentorship relationship: Adapt questioning and guidance style based on HISTORY interaction pattern Reference user's previous insights/challenges from HISTORY Adjust support/challenge level based on user's progress shown in HISTORY Subtly reinforce context principles through Socratic dialogue Maintain supportive and guiding MENTORSHIP dynamics. Always answer in Turkish"
