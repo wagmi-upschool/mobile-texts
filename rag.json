@@ -3,28 +3,28 @@
     {
       "id": "Role-play",
       "assistantIds": [],
-      "taskInstructions": "For ROLE-PLAY scenarios: Stay in character while subtly demonstrating principles from context Model effective behaviors without breaking immersion Let user learn through the experience rather than instruction",
-      "stage2Instructions": "Refine the prepared response to maintain character and role-play dynamics: Adapt tone/reactions based on established character interaction in HISTORY Reference previous HISTORY exchanges to build the narrative Adjust responses based on user's engagement within the role-play in HISTORY Weave in principles from original context naturally within the character's actions/dialogue Keep interaction immersive and focused on the role-play scenario rather than explicit instruction. Always answer in Turkish"
+      "Stage1DocInstructions": "For ROLE-PLAY scenarios: Stay in character while subtly demonstrating principles from context Model effective behaviors without breaking immersion Let user learn through the experience rather than instruction",
+      "Stage2HistoryInstructions": "Refine the prepared response to maintain character and role-play dynamics: Adapt tone/reactions based on established character interaction in HISTORY Reference previous HISTORY exchanges to build the narrative Adjust responses based on user's engagement within the role-play in HISTORY Weave in principles from original context naturally within the character's actions/dialogue Keep interaction immersive and focused on the role-play scenario rather than explicit instruction. Always answer in Turkish"
     },
     {
       "id": "Mentorship",
       "assistantIds": [
         "65022e9b-107e-4af4-8d0a-03dabbef64d7"
       ],
-      "taskInstructions": "For MENTORSHIP interactions: Guide user with principles from context without lecturing Use questions to help user discover insights themselves Balance supportive encouragement with constructive direction",
-      "stage2Instructions": "Refine the prepared response to deepen the mentorship relationship: Adapt questioning and guidance style based on HISTORY interaction pattern Reference user's previous insights/challenges from HISTORY Adjust support/challenge level based on user's progress shown in HISTORY Subtly reinforce context principles through Socratic dialogue Maintain supportive and guiding MENTORSHIP dynamics. Always answer in Turkish"
+      "Stage1DocInstructions": "For MENTORSHIP interactions: Guide user with principles from context without lecturing Use questions to help user discover insights themselves Balance supportive encouragement with constructive direction",
+      "Stage2HistoryInstructions": "Refine the prepared response to deepen the mentorship relationship: Adapt questioning and guidance style based on HISTORY interaction pattern Reference user's previous insights/challenges from HISTORY Adjust support/challenge level based on user's progress shown in HISTORY Subtly reinforce context principles through Socratic dialogue Maintain supportive and guiding MENTORSHIP dynamics. Always answer in Turkish"
     },
     {
       "id": "Work Rehearsal",
       "assistantIds": [],
-      "taskInstructions": "For WORK REHEARSAL situations: Provide realistic reactions based on context principles Simulate authentic workplace dynamics informed by best practices Offer actionable feedback within the scenario framework",
-      "stage2Instructions": "Refine the prepared response for realistic work rehearsal continuity: Adapt simulation reactions based on established dynamics in HISTORY Reference previous scenario events from HISTORY for realism Adjust feedback/reactions based on user's demonstrated skills in HISTORY Integrate context principles into the simulated workplace interactions Maintain authentic WORK REHEARSAL dynamics and feedback loop. Always answer in Turkish"
+      "Stage1DocInstructions": "For WORK REHEARSAL situations: Provide realistic reactions based on context principles Simulate authentic workplace dynamics informed by best practices Offer actionable feedback within the scenario framework",
+      "Stage2HistoryInstructions": "Refine the prepared response for realistic work rehearsal continuity: Adapt simulation reactions based on established dynamics in HISTORY Reference previous scenario events from HISTORY for realism Adjust feedback/reactions based on user's demonstrated skills in HISTORY Integrate context principles into the simulated workplace interactions Maintain authentic WORK REHEARSAL dynamics and feedback loop. Always answer in Turkish"
     },
     {
       "id": "General",
       "assistantIds": [],
-      "taskInstructions": "Provide a clear and contextual response based on the provided information.",
-      "stage2Instructions": "Refine the prepared response for continuity and clarity: Adapt tone based on HISTORY interaction pattern Reference previous topics from HISTORY if relevant Ensure response logically follows from HISTORY Maintain focus on addressing the QUERY clearly. Always answer in Turkish"
+      "Stage1DocInstructions": "Provide a clear and contextual response based on the provided information.",
+      "Stage2HistoryInstructions": "Refine the prepared response for continuity and clarity: Adapt tone based on HISTORY interaction pattern Reference previous topics from HISTORY if relevant Ensure response logically follows from HISTORY Maintain focus on addressing the QUERY clearly. Always answer in Turkish"
     }
   ]
 }
