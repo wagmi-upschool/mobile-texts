@@ -1,88 +1,22 @@
 {
   "starter": {
-    "placeholder": "İsmim",
-    "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
-    "description": ""
-  },
-  "major": {
-    "title": "**Uzmanlığın nedir?**\n\nHangi alanda çalışıyorsun?",
-    "placeholder": "Uzmanlığım"
-  },
-  "experience": {
-    "title": "**Harika!**\n\nPeki ne kadar zamandır bu alanda çalışıyorsun?",
-    "options": [
-      "Henüz deneyimim yok",
-      "2 yıldan az",
-      "3-5 yıl",
-      "6-10 yıl",
-      "10 yıldan uzun süredir"
-    ]
-  },
-  "aiExperience": {
-    "title": "**Profesyonel veya kişisel gelişimin için yapay zeka araçlarını ne kadar kullanıyorsun?**\n\nÖrneğin; geri bildirim verme, iletişim becerileri, zaman yönetimi vb.",
-    "options": [
-      "Kullanmıyorum",
-      "Nadiren",
-      "Sıklıkla",
-      "Her zaman"
-    ]
-  },
-  "targetUser":{
-    "title": "**Birlikte hangi konulara odaklanmak istersin?**",
-    "options": [
-      "🎯 Hedef koymak ve ilerlemek",
-      "🤝 Zor bir durumu prova etmek",
-      "🧘‍♀️ Zihnimi toparlamak ve odaklanmak",
-      "🎤 Kendimi daha iyi ifade etmek"
-    ]
-  },
-  "notification": {
-    "title": "**Sen yoğunsun, gelişimini takip etmen için ben yanındayım.**\n\nKüçük hatırlatmalar için iznine ihtiyacım var. Söz seni gereksiz mesajlarla rahatsız etmeyeceğim.",
-    "options": [
-      "Bildirimleri aç",
-      "Kapalı kalsın"
-    ],
-    "true": "Bildirimleri aç",
-    "false": "Kapalı kalsın"
-  },
-  "redirect": {
-    "promo": {
-            "title":"**İşte şimdi hazırız.**",
-            "options":[{"id":"1","title":"Hadi başlayalım!","description":"Uygulamaya girip neler var bir göz atmak için seni buraya alalım.","route":"/home"}] 
-        },
-    "true": {
-      "title": "**İşte şimdi hazırız.**",
-      "options": [
-        {
-          "id": "1",
-          "title": "Hemen sohbete başlayalım!",
-          "description": "İlk kullanım için ücretsiz 1 adet sohbet hakkın var. Fazlası için  dilediğin zaman Ayarlar sayfasından abone olabilirsin!",
-          "route": "/home"
-        },
-        {
-          "id": "ABONE_2",
-          "title": "Abone olmak istiyorum!",
-          "description": "Sınırsız sohbet ve gelişim takibi ile daha iyi bir sen için harekete geç!",
-          "route": "/home"
-        }
-      ]
+    "trainingMode_TRUE": {
+      "placeholder": "İsmim", 
+      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
+      "description": ""
     },
-    "false": {
-      "title": "**Öyle olsun...**",
-      "options": [
-        {
-          "id": "1",
-          "title": "Hadi başlayalım!",
-          "description": "İlk kullanım için ücretsiz 1 adet sohbet hakkın var. Fazlası için  dilediğin zaman Ayarlar sayfasından abone olabilirsin!",
-          "route": "/home"
-        },
-        {
-          "id": "ABONE_2",
-          "title": "Abone olmak istiyorum!",
-          "description": "Sınırsız sohbet ve gelişim takibi ile daha iyi bir sen için harekete geç!",
-          "route": "/home"
-        }
-      ]
+    "trainingMode_FALSE": {
+      "placeholder": "İsmim",
+      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
+      "description": ""
+    }
+  },
+  "agentSuggestion": {
+    "trainingMode_TRUE": {
+      "title": "**Memnun oldum ${name}!**\n\nEğitimin boyunca sana eşlik edeceğim. Ancak dersler başlamadan önce tamamlaman gereken bir anket var."
+    },
+    "trainingMode_FALSE": {
+      "title": "**Bugün sana nasıl yardımcı olabilirim ${name}?**\n\nNeye ihtiyacın olduğunu söyle, kişiselleştirilmiş araçlarımla sana yardımcı olmaya çalışayım."
     }
   }
 }
