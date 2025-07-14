@@ -2,12 +2,12 @@
   "starter": {
     "trainingMode_TRUE": {
       "placeholder": "İsmim", 
-      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
+      "title": "**Ben de seni bekliyordum!**\n\nYeni bir eğitime başladığını görüyorum. Verimli bir eğitim olması için sana destek olmaya çalışacağım. Öncelikle sana seslenebilmem için ismini söyler misin?",
       "description": ""
     },
     "trainingMode_FALSE": {
       "placeholder": "İsmim",
-      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Sana seslenebilmem için ismini söyler misin?",
+      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
       "description": ""
     }
   },
