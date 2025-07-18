@@ -1,7 +1,9 @@
 {
   "hello": {
     "title": "Merhaba! Ben UP!",
-    "description": "Sürekli gelişim için Yapay Zeka Yol Arkadaşınım."
+    "description": "Sürekli gelişim için Yapay Zeka Yol Arkadaşın. Her sohbetimizde birlikte gelişeceğiz.",
+    "imageUrl":"https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/welcome.png",
+    "buttonText":"Birlikte Neler Yapabiliriz?"
   },
   "image_with_text": {
     "title": "Her sohbetimizde birbirimizi daha iyi tanıyarak birlikte gelişeceğiz.",
