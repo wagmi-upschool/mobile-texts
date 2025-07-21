@@ -1,11 +1,13 @@
 {
   "starter": {
     "trainingMode_TRUE": {
+      "pageTitle":"Eğitime Hoşgeldin",
       "placeholder": "İsmim", 
       "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
       "description": ""
     },
     "trainingMode_FALSE": {
+      "pageTitle":"Merhaba",
       "placeholder": "İsmim",
       "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Sana seslenebilmem için ismini söyler misin?",
       "description": ""
