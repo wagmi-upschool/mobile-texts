@@ -4,7 +4,7 @@
     "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
     "description": "",
     "trainingMode_TRUE": {
-      "pageTitle":"Eğitime Hoşgeldin",
+      "pageTitle":"Eğitime hoş geldin!",
       "placeholder": "İsmim", 
       "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
       "description": ""
