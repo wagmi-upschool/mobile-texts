@@ -2,7 +2,30 @@
   "starter": {
     "placeholder": "İsmim",
     "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
-    "description": ""
+    "description": "",
+    "trainingMode_TRUE": {
+      "pageTitle":"Eğitime hoş geldin!",
+      "placeholder": "İsmim", 
+      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
+      "description": ""
+    },
+    "trainingMode_FALSE": {
+      "pageTitle":"Merhaba",
+      "placeholder": "İsmim",
+      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Sana seslenebilmem için ismini söyler misin?",
+      "description": ""
+    }
+  },
+  "agentSuggestion": {
+    "trainingMode_TRUE": {
+      "title": "**Memnun oldum ${name}!**\n\nEğitimin boyunca sana eşlik edeceğim. Ancak dersler başlamadan önce tamamlaman gereken bir anket var."
+    },
+    "trainingMode_FALSE": {
+      "defaultSuggestionUrl":"https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/UP+APP+Go%CC%88rseller+500x500/Geri+Bildirim.jpg",
+      "defaultSuggestionTitle":"Başka bir şey?",
+      "defaultSuggestionDescription":"Ne yapmak istediğini anlat, sana nasıl yardımcı olabileceğimi söyleyeyim.",
+      "title": "**Bugün sana nasıl yardımcı olabilirim ${name}?**\n\nNeye ihtiyacın olduğunu söyle, kişiselleştirilmiş araçlarımla sana yardımcı olmaya çalışayım."
+    }
   },
   "major": {
     "title": "**Uzmanlığın nedir?**\n\nHangi alanda çalışıyorsun?",
@@ -27,15 +50,6 @@
       "Her zaman"
     ]
   },
-  "targetUser":{
-    "title": "**Birlikte hangi konulara odaklanmak istersin?**",
-    "options": [
-      "🎯 Hedef koymak ve ilerlemek",
-      "🤝 Zor bir durumu prova etmek",
-      "🧘‍♀️ Zihnimi toparlamak ve odaklanmak",
-      "🎤 Kendimi daha iyi ifade etmek"
-    ]
-  },
   "notification": {
     "title": "**Sen yoğunsun, gelişimini takip etmen için ben yanındayım.**\n\nKüçük hatırlatmalar için iznine ihtiyacım var. Söz seni gereksiz mesajlarla rahatsız etmeyeceğim.",
     "options": [
@@ -44,6 +58,15 @@
     ],
     "true": "Bildirimleri aç",
     "false": "Kapalı kalsın"
+  },
+  "targetUser":{
+    "title": "**Birlikte hangi konulara odaklanmak istersin?**",
+    "options": [
+      "🎯 Hedef koymak ve ilerlemek",
+      "🤝 Zor bir durumu prova etmek",
+      "🧘‍♀️ Zihnimi toparlamak ve odaklanmak",
+      "🎤 Kendimi daha iyi ifade etmek"
+    ]
   },
   "redirect": {
     "promo": {
