@@ -1,30 +1,30 @@
 {
   "starter": {
     "placeholder": "İsmim",
-    "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
+    "title": "**Öncelikle sana seslenebilmem için ismini söyler misin?**",
     "description": "",
     "trainingMode_TRUE": {
       "pageTitle":"Eğitime hoş geldin!",
       "placeholder": "İsmim", 
-      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
+      "title": "**Ben de seni bekliyordum!**\n\nEğitimin boyunca sana eşlik edeceğim. Öncelikle sana seslenebilmem için ismini söyler misin?",
       "description": ""
     },
     "trainingMode_FALSE": {
       "pageTitle":"Merhaba",
       "placeholder": "İsmim",
-      "title": "**Tanışmak için sabırsızlanıyorum!**\n\nGelişim yolculuğunda sana eşlik edeceğim. Sana seslenebilmem için ismini söyler misin?",
+      "title": "**Öncelikle sana seslenebilmem için ismini söyler misin?**",
       "description": ""
     }
   },
   "agentSuggestion": {
     "trainingMode_TRUE": {
-      "title": "**Memnun oldum ${name}!**\n\nEğitimin boyunca sana eşlik edeceğim. Ancak dersler başlamadan önce tamamlaman gereken bir anket var."
+      "title": "**Memnun oldum ${name}!**\n\nHadi seç ve başlayalım:"
     },
     "trainingMode_FALSE": {
       "defaultSuggestionUrl":"https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/UP+APP+Go%CC%88rseller+500x500/Geri+Bildirim.jpg",
       "defaultSuggestionTitle":"Başka bir şey?",
       "defaultSuggestionDescription":"Ne yapmak istediğini anlat, sana nasıl yardımcı olabileceğimi söyleyeyim.",
-      "title": "**Bugün sana nasıl yardımcı olabilirim ${name}?**\n\nNeye ihtiyacın olduğunu söyle, kişiselleştirilmiş araçlarımla sana yardımcı olmaya çalışayım."
+      "title": "**Bugün sana nasıl yardımcı olabilirim ${name}?**"
     }
   },
   "major": {
