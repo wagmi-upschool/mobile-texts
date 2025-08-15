@@ -23,7 +23,7 @@
     "trainingMode_FALSE": {
       "defaultSuggestionUrl":"https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/UP+APP+Go%CC%88rseller+500x500/Geri+Bildirim.jpg",
       "defaultSuggestionTitle":"Başka bir şey?",
-      "defaultSuggestionDescription":"Ne yapmak istediğini anlat, sana nasıl yardımcı olabileceğimi söyleyeyim.",
+      "defaultSuggestionDescription":"",
       "title": "**Bugün sana nasıl yardımcı olabilirim ${name}?**"
     }
   },
