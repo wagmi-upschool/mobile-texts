@@ -18,7 +18,7 @@
       {
         "text": "Performans değerlendirme gibi süreçlere benimle hazırlanabilirsin.",
         "url": "https://upwagmidevcontent234355-upwagmitec.s3.us-east-1.amazonaws.com/public/assistant_group_icons/assistant_icons/Prova+Odas%C4%B1+600X600.png",
-        "key": "Prova Odası"
+        "key": "Mentorum Ol"
       },
       {
         "text": "Sorumluluk dostun olarak takip ve hatırlatmalarla hayatını kolaylaştırırım.",
